@@ -1,0 +1,9 @@
+baseURL = 'https://about.neodb.social/'
+languageCode = 'zh-cn'
+title = 'NeoDB 档案馆'
+theme = "PaperMod"
+
+[params]
+  ShowToc = true
+  TocOpen = true
+  ShowShareButtons = true
