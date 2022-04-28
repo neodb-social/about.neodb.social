@@ -7,3 +7,6 @@ theme = "PaperMod"
   ShowToc = true
   TocOpen = true
   ShowShareButtons = true
+  editPost.URL = 'https://github.com/neodb-social/about.neodb.social/blob/main/content'
+  editPost.Text = '✍ 为本文提供修改建议'
+  editPost.appendFilePath = true
