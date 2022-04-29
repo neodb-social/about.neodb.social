@@ -23,7 +23,7 @@ NeoDB目前不支持注册账号，能通过Mastodon（或Pleroma/Friendica/Pixe
 
 - [《Mastodon（长毛象）使用讲解》](https://home.bangdream.space/mastodon-use/)by 炸邦裂梦乐团信息站
 - [《长毛象 Mastodon 食用指南》](https://jings.blog/misc/how-to-use-mastodon.html) by Jing's Blog
-- [《更加开放的社交网络，「长毛象」让你自由地分享想法》](https://sspai.com/post/46868) by 少数派 i9NGbgNq
+- [《更加开放的社交网络，「长毛象」让你自由地分享想法》](https://sspai.com/post/46868) by i9NGbgNq@少数派
 - [《去中心化开源社区Mastodon（长毛象）的使用详解 + 搭建安装教程》](https://blog.ysoup.org/tech/Mastodon.html) by YSOUP blog
 - [Mastodon 中文官方文档](https://docs.joinmastodon.org/zh-cn/)
 
