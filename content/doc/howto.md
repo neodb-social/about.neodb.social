@@ -4,10 +4,11 @@ date: 2022-04-27T20:38:59+08:00
 draft: false
 ---
 
+_本指南由[@chestnut@m.cmx.im](https://m.cmx.im/@chestnut)撰写，会不断完善，也欢迎您在[GitHub](https://github.com/neodb-social/about.neodb.social)使用pull request提交修改建议，或者向[NeoDB官方Fediverse帐号](https://mastodon.social/@neodb)提出意见和建议。_
 
 # NeoDB是什么
 
-[neodb.social](https://neodb.social/) - 致力于为联邦宇宙居民提供一个自由开放互联的书籍、电影、音乐和游戏收藏评论空间。
+[neodb.social](https://neodb.social/) - 致力于为联邦宇宙居民提供一个自由开放互联的书籍、电影、音乐和游戏收藏评论空间。NeoDB的源代码来自NiceDB，NiceDB由里瓣社区赞助开发。
 
 # NeoDB使用指南
 
