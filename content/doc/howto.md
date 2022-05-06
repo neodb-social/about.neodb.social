@@ -84,6 +84,8 @@ Pleroma/Friendica/PixelFed实例同样运行在联邦网络上，与Mastodon相�
 
 ## 5. 如何导入豆伴数据？
 
+0. 首先准备好从[豆伴导出](../doufen/)的后缀名为.xlsx的豆伴备份文件。
+
 1. 点击页面右上角的“数据”选项，进入数据导入/导出页面。
     
     ![Screenshot 2022-03-28 at 16.47.56.png](Screenshot_2022-03-28_at_16.47.56.png)
