@@ -8,17 +8,19 @@ _本指南由[@chestnut@m.cmx.im](https://m.cmx.im/@chestnut)撰写，会不断�
 
 # NeoDB是什么
 
-[neodb.social](https://neodb.social/) 是一个致力于为联邦宇宙居民提供一个自由开放互联的书籍、电影、音乐和游戏收藏评论空间。
+[neodb.social](https://neodb.social/)是一个涵盖书籍、影视、音乐、游戏、播客的自由开放互联的收藏评论空间。你可以在这里记录你的收藏和想法，以及发现新的内容和朋友。 
 
 NeoDB的源代码来自NiceDB，NiceDB由里瓣社区众筹开发。
 
 # NeoDB使用指南
 
-本文以Mastodon宇宙为例进行解释说明。
+本文以Mastodon（长毛象）联邦宇宙为例进行解释说明。
 
 ## 1. 如何注册NeoDB？
 
-NeoDB目前不支持注册账号，能通过Mastodon（或Pleroma/Friendica/PixelFed）实例的账号登录。NeoDB也兼容Twitter登录，但无法享受到联邦网络互通的便利。已经有账号的网友们可以直接看第二步。
+使用NeoDB的最佳方式通过联邦宇宙（Fediverse，有时也被称为长毛象，一种分布式社交网络）实例账号登录。
+
+如果还没准备好注册联邦宇宙也没问题，你可以在登录页面选择电子邮件注册，未来再连接到联邦宇宙。
 
 ### 什么是Mastodon？
 
@@ -26,8 +28,7 @@ NeoDB目前不支持注册账号，能通过Mastodon（或Pleroma/Friendica/Pixe
 
 - [《Mastodon（长毛象）使用讲解》](https://home.bangdream.space/mastodon-use/)by 炸邦裂梦乐团信息站
 - [《长毛象 Mastodon 食用指南》](https://jings.blog/misc/how-to-use-mastodon.html) by Jing's Blog
-- [《更加开放的社交网络，「长毛象」让你自由地分享想法》](https://sspai.com/post/46868) by i9NGbgNq@少数派
-- [《去中心化开源社区Mastodon（长毛象）的使用详解 + 搭建安装教程》](https://blog.ysoup.org/tech/Mastodon.html) by YSOUP blog
+- [Mastodon 官方实例选择列表](https://joinmastodon.org/zh/servers)
 - [Mastodon 中文官方文档](https://docs.joinmastodon.org/zh-cn/)
 
 ### 其他联邦宇宙？
@@ -144,8 +145,6 @@ Pleroma/Friendica/PixelFed实例同样运行在联邦网络上，与Mastodon相�
 ### 什么是实例域名？
 
 每个Mastodon实例都拥有自己的域名，也就是能访问到该实例的网站。以mastodon.social为例，用户可以通过 [https://mastodon.social/](https://mastodon.social/) 地址进入到这个实例的首页。
-
-推特用户输入 twitter.com 即可。
 
 ### 如何获取所在实例域名？
 
