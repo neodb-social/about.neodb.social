@@ -4,9 +4,18 @@ title = 'NeoDB 档案馆'
 theme = "PaperMod"
 
 [params]
-  ShowToc = true
-  TocOpen = true
-  ShowShareButtons = true
-  editPost.URL = 'https://github.com/neodb-social/about.neodb.social/blob/main/content'
-  editPost.Text = '✍ 为本文提供修改建议'
-  editPost.appendFilePath = true
+ShowToc = true
+TocOpen = true
+ShowShareButtons = true
+editPost.URL = 'https://github.com/neodb-social/about.neodb.social/blob/main/content'
+editPost.Text = '✍ 为本文提供修改建议'
+editPost.appendFilePath = true
+homeInfoParams.Title = "NeoDB"
+homeInfoParams.Content = "标记你所喜欢的一切"
+socialIcons = [
+    { name = "github", url = "https://github.com/neodb-social" },
+    { name = "discord", url = "https://discord.gg/8KweCuApaK" },
+    { name = "mastodon", url = "https://mastodon.social/@neodb" },
+    { name = "bluesky", url = "https://bsky.app/profile/did:plc:ui2d3qu2ltydsyskmnuvi4ay" },
+    { name = "twitter", url = "https://twitter.com/NeoDBsocial" },
+]
