@@ -4,7 +4,11 @@ date: 2022-04-28T20:38:59+08:00
 draft: false
 ---
 
-[豆伴](https://doufen.org/)（又称豆坟）是一款浏览器扩展程序，可以安装在Chrome/Vivaldi/Opera/Edge/Brave等电脑浏览器中，用于备份自己的豆瓣数据到本机，然后再从本机上传到NeoDB。以下来自[豆伴官方说明](https://github.com/doufen-org/tofu):
+[豆伴](https://doufen.org/)（又称豆坟）是一款浏览器扩展程序，可以安装在Chrome/Vivaldi/Opera/Edge/Brave等电脑浏览器中，用于备份自己的豆瓣数据到本机，然后再从本机上传到NeoDB。
+
+_豆伴已有两年未更新，经用户反馈目前存在备份失败的可能，如果您有更稳定的替代方法请[与我们联系](https://discord.gg/8KweCuApaK)。_
+
+以下来自[豆伴官方说明](https://github.com/doufen-org/tofu):
 
 # 豆伴：豆瓣账号备份工具
 一款 Chrome 扩展程序，用于备份豆瓣账号数据。
