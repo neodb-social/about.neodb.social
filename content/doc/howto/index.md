@@ -1,7 +1,8 @@
 ---
-title: "NeoDB使用指南"
+title: "NeoDB 使用指南"
 date: 2022-04-27T20:38:59+08:00
 draft: false
+weight: 5
 ---
 
 _本指南最初版本由 [@chestnut@m.cmx.im](https://m.cmx.im/@chestnut) 撰写，会不断完善。也欢迎在 [GitHub](https://github.com/neodb-social/about.neodb.social) 使用 pull request 提交修改，或者向 NeoDB 官方社交帐号（[Fediverse](https://mastodon.social/@neodb)、[BlueSky](https://bsky.app/profile/did:plc:ui2d3qu2ltydsyskmnuvi4ay)、[Twitter](https://twitter.com/NeoDBsocial)、[Discord](https://discord.gg/8KweCuApaK)）提出意见和建议。_
@@ -100,6 +101,10 @@ Pleroma/Friendica/PixelFed实例同样运行在联邦网络上，与Mastodon相�
 **可见性**：与联邦网络意义一致。如需设置公开选项是否发布到公共时间轴，请通过 NeoDB 的设置页进行修改。
 
 ![设置页](./setting-new.png)
+
+### 2.4 编辑条目元数据
+
+NeoDB 不存在审核机制，所有登录用户均可编辑条目元数据。我们鼓励用户在看到错误元数据时主动编辑条目，共同完善数据库。想了解更多请阅读[条目编辑说明](../metadata)。
 
 ## 3. 如何导入其他网站的标记数据？
 
