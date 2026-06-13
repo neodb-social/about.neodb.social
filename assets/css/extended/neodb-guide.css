@@ -1,0 +1,41 @@
+.home-info,
+.post-entry,
+.post-content blockquote {
+  border: 1px solid var(--border);
+}
+
+.home-info {
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgba(0, 120, 140, 0.06), transparent 72%);
+}
+
+.post-content {
+  line-height: 1.82;
+}
+
+.post-content h2 {
+  margin-top: 2.2rem;
+}
+
+.post-content h3 {
+  margin-top: 1.6rem;
+}
+
+.post-content img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.1rem auto 0.45rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 12px 32px rgba(17, 24, 39, 0.12);
+}
+
+.post-content blockquote {
+  border-radius: 8px;
+  background: rgba(230, 154, 72, 0.08);
+}
+
+.post-content li + li {
+  margin-top: 0.18rem;
+}
