@@ -33,6 +33,10 @@ NeoDB不是“又一个打分网站”和围墙花园，而是把你的文化生
 - 使用 Fediverse 身份登录，例如 Mastodon、Pleroma、Firefish、GoToSocial、Pixelfed、Friendica、Takahē 等。
 - 使用 Bluesky/ATProto 身份登录。
 
+![NeoDB 登录页可以选择通行密钥、电子邮件、Fediverse 或 Bluesky 登录](./neodb-2026-login.png)
+
+使用 Fediverse 身份登录时，只需要输入实例域名，不要输入完整账号。比如你的账号是 `@neodb@mastodon.social`，在这里输入 `mastodon.social` 即可。
+
 如果你已经有 Mastodon 或 Bluesky 账号，用它们授权登录很方便；不过第一次进入 NeoDB 后，建议马上去 `账号` 页面绑定电子邮件，或添加 `通行密钥`（passkey）作为备用登录方式。
 
 ![账号页里可以管理电子邮件、联邦宇宙身份、Bluesky 身份、通行密钥和社交关系同步](./neodb-2026-account.jpg)
